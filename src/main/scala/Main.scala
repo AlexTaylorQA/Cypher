@@ -26,8 +26,6 @@ object Main
             }
           }
         cypher(getWord, outString, x + 1)
-
-
     }
 
   }
